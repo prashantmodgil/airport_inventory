@@ -1,0 +1,19 @@
+- name: Indira Gandhi International Airport,Delhi
+  fuel_capacity: 500000
+  fuel_available: 25066
+
+- name: Rajiv Gandhi International Airport,Hyderabad
+  fuel_capacity: 500000
+  fuel_available: 350732
+
+- name: Chhatrapati Shivaji International Airport, Mumbai
+  fuel_capacity: 500000
+  fuel_available: 288467
+
+- name: Chennai International Airport,Chennai
+  fuel_capacity: 500000
+  fuel_available: 497460
+
+- name: Kempegowda International Airport,Bangalore
+  fuel_capacity: 500000
+  fuel_available: 123456
